@@ -1,0 +1,57 @@
+﻿PROJECT OBJECTIVES
+
+General Objective
+
+To design and evaluate an intelligent video surveillance framework capable of detecting abnormal or suspicious activities under low-light conditions, with consideration for real-time and edge-based deployment constraints.
+
+Specific Objectives
+
+To review and analyze existing computer vision techniques for visual perception under low-light and low-quality imaging conditions.
+
+To investigate anomaly and abnormal activity detection approaches applicable to video surveillance scenarios.
+
+To examine the challenges and constraints of deploying vision-based surveillance systems on edge or resource-constrained devices.
+
+To develop a conceptual surveillance framework that integrates visual enhancement, activity analysis, and anomaly detection components.
+
+To evaluate the effectiveness of the proposed framework using appropriate performance metrics under varying lighting and scene conditions.
+
+To identify trade-offs between detection accuracy, computational efficiency, and real-time performance for surveillance applications.
+
+
+PROJECT METHODOLOGY
+Research Design
+
+This study adopts an experimental and design-oriented research approach, combining literature-driven system design with empirical evaluation using publicly available datasets. The methodology emphasizes reproducibility, computational feasibility, and relevance to real-world surveillance environments.
+
+Data Collection
+
+Video datasets relevant to surveillance and abnormal activity detection will be sourced from publicly available repositories. These datasets will include scenarios such as human movement, crowd behavior, and access-controlled environments, with particular attention to samples captured under low-light or degraded visual conditions.
+
+Preprocessing and Representation
+
+Input video data will undergo preprocessing to ensure compatibility with subsequent analysis stages. This may include frame extraction, normalization, resizing, and optional visual enhancement to address illumination challenges. The preprocessing stage is designed to remain modular, allowing different enhancement or normalization strategies to be evaluated independently.
+
+System Framework Design
+
+A modular surveillance framework will be conceptually designed, consisting of interconnected stages such as visual perception, feature representation, temporal analysis, and anomaly decision-making. Each stage will be defined abstractly to allow flexibility in the choice of algorithms and models during implementation.
+
+Anomaly and Activity Analysis
+
+The system will analyze spatial and temporal patterns within video sequences to distinguish normal from abnormal behaviors. Rather than relying on predefined rules, the framework will emphasize data-driven learning of typical activity patterns, enabling the identification of deviations that may indicate suspicious behavior.
+
+Evaluation Strategy
+
+The proposed framework will be evaluated using standard performance metrics commonly adopted in video surveillance and anomaly detection research. Evaluation will consider detection accuracy, false alarm rates, processing latency, and computational overhead to assess suitability for real-time and edge-based deployment.
+
+Deployment Considerations
+
+To ensure practical applicability, the methodology incorporates considerations for computational efficiency and scalability. Model complexity, inference latency, and memory usage will be analyzed to assess the feasibility of deployment on edge devices or low-resource environments.
+
+Analysis and Interpretation
+
+Experimental results will be analyzed comparatively across different configurations of the framework. Observations will be interpreted to identify strengths, limitations, and potential areas for improvement, forming the basis for recommendations and future research directions.
+
+Ethical and Practical Considerations
+
+The study will adhere to ethical guidelines related to surveillance research, including the use of publicly available datasets and anonymized data. Practical constraints such as lighting variability, occlusion, and environmental noise will be acknowledged in the analysis.

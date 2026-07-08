@@ -1,0 +1,19 @@
+Face Mask Detction Papers:
+1.N Anusha et al_2023 -Face Mask and Social Distance Detection Using Deep Learning Models.pdf
+2.Ratnam Dodda et al_Real-Time Face Mask Detection Using Deep Learning: Enhancing Public Health and Safety.pdf
+3.Ayantika Bera_2021_FACE MASK DETECTION SYSTEM USING DEEP LEARNING.pdf
+4.Yuxi Zhang_2021_A Deep Learning-Based Tool for Detection of Face Mask and Measuring Body Temperature.pdf
+5.Jayaswal, R., & Dixit, M. (2022). A face mask detection system: An approach to fight with COVID‐19 scenario. Concurrency and Computation.pdf
+6.Yogesh Sahu et al 2023 Face mask Detection using Deep Learning.pdf
+7.Shashi Yadav_2020_Deep_Learning_based_Safe_Social_Distancing_and_Fac.pdf
+8.Wadidi Boulila_A Deep Learning-based Approach for Real-time.pdf
+
+Computer Vision Papers:
+9.Kaiming He et al._2015Deep Residual Learning for Image Recognition.pdf
+10.Redmon_2016_You_Only_Look_CVPR_2016_paper.pdf
+11.Andrew G. Howard et al_2017_MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications.pdf
+
+Real-time Domain Papers:
+12.Sara Bouraya_2020_Evaluating the Real-World Application Efficacy of MobileNet Models.pdf
+13.Horesh Y, Oz Rokach R, Kolben Y, Nachman D. Real-Time Monitoring of Personal Protective Equipment Adherence Using On-Device Artificial Intelligence Models.pdf (optional PPE)
+14.Atah Rahman_2025_PPE-EYE: A Deep Learning Approach to Personal Protective Equipment Compliance Detection.pdf (optional PPE)
