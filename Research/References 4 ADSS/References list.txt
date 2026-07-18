@@ -1,182 +1,49 @@
-﻿1
-
-Filename:
-Chongy_2021_LowLight_Image_and_Video_Enhancement_Survey.pdf
-
-Citation:
-Chongyi, L., et al. (2021). Low-Light Image and Video Enhancement Using Deep Learning: A Survey. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-
-2
-
-Filename:
-Zhou_2018_Face_Detection_on_Low_Quality_Images_Survey.pdf
-
-Citation:
-Zhou, Y., & Deng, J. (2018). Survey of Face Detection on Low-Quality Images. IEEE Access.
-
-3
-
-Filename:
-AbuAwwad_2024_Anomaly_Detection_on_the_Edge_Low_Light.pdf
-
-Citation:
-Abu Awwad, Y., Rana, O., & Perera, C. (2024). Anomaly Detection on the Edge Using Smart Cameras under Low-Light Conditions. Sensors, 24(3).
-
-4
-
-Filename:
-Batzner_2023_EfficientAD_Visual_Anomaly_Detection.pdf
-
-Citation:
-Batzner, K., et al. (2023). EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
-
-5
-
-Filename:
-Ghari_2024_Pedestrian_Detection_in_Low_Light_Survey.pdf
-
-Citation:
-Ghari, B., et al. (2024). Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey. IEEE Access.
-
-6
-
-Filename:
-Ali_2024_Edge_Computing_Enabled_Abnormal_Activity_Recognition.pdf
-
-Citation:
-Ali, M., et al. (2024). Edge-Computing-Enabled Abnormal Activity Recognition for Visual Surveillance. Future Generation Computer Systems.
-
-7
-
-Filename:
-Hashmi_2023_FeatEnHancer_Low_Light_Object_Detection.pdf
-
-Citation:
-Hashmi, K. A., et al. (2023). FeatEnHancer: Enhancing Hierarchical Features for Object Detection and Beyond under Low-Light Vision. IEEE/CVF International Conference on Computer Vision (ICCV).
-
-8
-
-Filename:
-Qu_2023_Double_Domain_Guided_Low_Light_Enhancement.pdf
-
-Citation:
-Qu, Y., et al. (2023). Double Domain Guided Real-Time Low-Light Image Enhancement for Ultra-High-Definition Transportation Surveillance. IEEE Transactions on Intelligent Transportation Systems.
-
-9
-
-Filename:
-Tusher_2023_Computer_Vision_Anomaly_Detection_Comparative_Study.pdf
-
-Citation:
-Tusher, S. M., et al. (2023). Anomaly Detection Using Computer Vision: A Comparative Analysis of Class Distinction and Performance Metrics. Journal of Big Data.
-
-10
-
-Filename:
-Springer_2025_Real_Time_Video_Anomaly_Detection.pdf
-
-Citation:
-Author(s) TBD. (2025). Deep Learning Based Anomaly Detection in Real-Time Video. Multimedia Tools and Applications, Springer.
-
-(???)
-
-11
-
-Filename:
-Duong_2023_Deep_Learning_Anomaly_Detection_Video_Surveillance_Survey.pdf
-
-Citation:
-Duong, T. N., et al. (2023). Deep Learning-Based Anomaly Detection in Video Surveillance: A Survey. Sensors.
-
-12
-
-Filename:
-Nasir_2024_Dense_Crowd_Abnormal_Behavior_YOLOv8.pdf
-
-Citation:
-Nasir, R., et al. (2024). Enhanced Framework for Real-Time Dense Crowd Abnormal Behavior Detection Using YOLOv8. Applied Intelligence.
-
-13
-
-Filename:
-Nejad_2024_Weakly_Supervised_Anomaly_Detection_Two_Stream_I3D.pdf
-
-Citation:
-Nejad, M., & Haque, A. (2024). Weakly-Supervised Anomaly Detection in Surveillance Videos Based on Two-Stream I3D Convolution Network. IEEE Access.
-
-14
-
-Filename:
-Wu_2023_Edge_Image_Recognition_Dark_Light_Enhancement.pdf
-
-Citation:
-Wu, X. (2023). Accuracy Improvement of Edge Image Recognition AI in Dark Light Environment by Image Enhancement. International Conference on Applied Computing and Engineering (ACE).
-
-15
-
-Filename:
-Tran_2024_Low_Light_Image_Enhancement_for_Object_Detection_Fisheye.pdf
-
-Citation:
-Tran, M. T., et al. (2024). Low-Light Image Enhancement Framework for Improved Object Detection in Fisheye Images. CVPR Workshops (CVPRW).
-
-16
-
-Filename:
-Tan_2020_EfficientDet_Scalable_Object_Detection.pdf
-
-Citation:
-Tan, M., Pang, R., & Le, Q. V. (2020). EfficientDet: Scalable and Efficient Object Detection. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
-
-17
-
-Filename:
-Cheng_2018_Model_Compression_and_Acceleration_Survey.pdf
-
-Citation:
-Cheng, Y., Wang, D., Zhou, P., & Zhang, T. (2018). A Survey of Model Compression and Acceleration for Deep Neural Networks. IEEE Signal Processing Magazine.
-
-18
-
-Filename:
-Gholami_2021_Quantization_Methods_for_Neural_Networks_Survey.pdf
-
-Citation:
-Gholami, A., et al. (2021). A Survey of Quantization Methods for Efficient Neural Network Inference. ACM Computing Surveys.
-
-19
-
-Filename:
-Mehran_2009_Abnormal_Crowd_Behavior_Social_Force_Model.pdf
-
-Citation:
-Mehran, R., Oyama, A., & Shah, M. (2009). Abnormal Crowd Behavior Detection Using Social Force Model. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
-
-20
-
-Filename:
-Liu_2021_Video_Anomaly_Detection_Survey.pdf
-
-Citation:
-Liu, W., Luo, W., Lian, D., & Gao, S. (2021). Video Anomaly Detection: A Survey. IEEE Transactions on Pattern Analysis and Machine Intelligence.
-
-
-
-DOMAINS
-
-🔹 Domain 1: Computer Vision Models (Summarized)
-
-1, 2, 5, 7, 8, 15, 16
-
-
-🔹 Domain 2: Face / Security / Behavior Analysis (Bulk)
-
-3, 4, 6, 9, 10, 11, 12, 13, 19, 20
-
-
-
-🔹 Domain 3: Edge Deployment & Optimization
-
-3, 6, 14, 17, 18, 4
-
+Note, these references, dont yet contain/render the links to the actual sources
+
+Nigerian Context Sources (New)
+
+Aliyu, A.-Q. H., & Airoboman, A. E. (2025). Design and implementation of a cost-effective, AI-enabled smart security system for real-time threat detection in Nigerian rural communities. Journal of Scientific and Engineering Research, 12(11), 42–58.
+
+Nte, N. D., Gande, G., & Uzorka, M. (2020). The challenges and prospects of ICTs in crime prevention and management in Nigeria: A review of CCTV cameras in Abuja. Indonesian Journal of Criminal Law Studies, 5(1), 75–100.
+
+Domain 1: Foundational Computer Vision & Enhancement 
+
+3.  Ghari, B., Tourani, A., Shahbahrami, A., & Gaydadjiev, G. (2024). Pedestrian detection in low-light conditions: A comprehensive survey. IEEE Access, 12, 5835–5857.
+ 
+4.  Hashmi, K. A., Kallempudi, G., Stricker, D., & Afzal, M. Z. (2023). FeatEnHancer: Enhancing hierarchical features for object detection and beyond under low-light vision. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).
+
+5.  Li, C., Guo, C., Han, L. H., Jiang, J., Cheng, M. M., Gu, J., & Loy, C. C. (2021). Low-light image and video enhancement using deep learning: A survey. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 44(12), 9396–9416.
+ 
+6.  Qu, J., Liu, R. W., Gao, Y., Guo, Y., Zhu, F., & Wang, F. Y. (2023). Double domain guided real-time low-light image enhancement for ultra-high-definition transportation surveillance. IEEE Transactions on Intelligent Transportation Systems.
+ 
+7.  Tan, M., Pang, R., & Le, Q. V. (2020). EfficientDet: Scalable and efficient object detection. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 10781–10790.
+ 
+8.  Tran, D. Q., Aboah, A., Jeon, Y., Shoman, M., Park, M., & Park, S. (2024). Low-light image enhancement framework for improved object detection in fisheye lens datasets. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops.
+ 
+9.  Zhou, Y., Liu, D., & Huang, T. (2018). Survey of face detection on low-quality images. IEEE Access, 6, 18471–18487.
+Domain 2: Security, Anomaly, & Behavioral Analysis 10. Abu Awwad, Y., Rana, O., & Perera, C. (2024). Anomaly detection on the edge using smart cameras under low-light conditions. Sensors, 24(3), 772.
+ 
+11. Ali, M., Goyal, L., Sharma, C. M., & Kumar, S. (2024). Edge-computing-enabled abnormal activity recognition for visual surveillance. Electronics, 13(2), 251.
+ (Note: Corrected journal name from FGCS to Electronics) 12. Batzner, K., Heckler, L., & König, R. (2023). EfficientAD: Accurate visual anomaly detection at millisecond-level latencies. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 12821–12830.
+ 
+13. Duong, H.-T., Le, V.-T., & Hoang, V. T. (2023). Deep learning-based anomaly detection in video surveillance: A survey. Sensors, 23(11), 5024.
+ 
+14. Elmetwally, A., Eldeeb, R., & Elmougy, S. (2025). Deep learning based anomaly detection in real-time video. Multimedia Tools and Applications, 84, 9555–9571.
+ (Note: Replaces "Author TBD" in your list) 15. Liu, W., Luo, W., Lian, D., & Gao, S. (2021). Future frame prediction for anomaly detection – A new baseline. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+ 
+16. Mehran, R., Oyama, A., & Shah, M. (2009). Abnormal crowd behavior detection using social force model. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+ 
+17. Nasir, R., Jalil, Z., Nasir, M., Alsubait, T., Ashraf, M., & Saleem, S. (2025). An enhanced framework for real-time dense crowd abnormal behavior detection using YOLOv8. Artificial Intelligence Review, 58, 202.
+ (Note: Date corrected from 2024 to 2025) 18. Nejad, S. S., & Haque, A. (2024). Weakly-supervised anomaly detection in surveillance videos based on two-stream I3D convolution network. IEEE Access.
+ 
+19. Tusher, M. B. U., Akash, S. K., & Showmik, A. I. (2023). Anomaly detection using computer vision: A comparative analysis of class distinction and performance metrics. Journal of Big Data.
+
+Domain 3: Edge Deployment & Optimization 
+
+20. Cheng, Y., Wang, D., Zhou, P., & Zhang, T. (2018). A survey of model compression and acceleration for deep neural networks. IEEE Signal Processing Magazine, 35(1), 126–136.
+ 
+21. Gholami, A., Kim, S., Dong, Z., Yao, Z., Mahoney, M. W., & Keutzer, K. (2021). A survey of quantization methods for efficient neural network inference. ACM Computing Surveys.
+ 
+22. Wu, J. (2023). Accuracy improvement of edge image recognition AI in dark light environment by image enhancement. Proceedings of the 3rd International Conference on Signal Processing and Machine Learning.
+ (Note: Corrected author name from Wu, X. to Wu, J.)
 
