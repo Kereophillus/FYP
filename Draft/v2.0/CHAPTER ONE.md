@@ -66,7 +66,28 @@ The fifth stage involved detector-tracker screening and final pipeline selection
 
 The final stage involved system evaluation. The prototype was evaluated using labelled behavioural-event scenarios, sustained Raspberry Pi profiling, and alert recovery testing. The behavioural evaluation tested whether the implemented indicators produced the expected event outcomes across selected scenarios. The profiling evaluation examined processing performance and device stability under a saved-video workload. The alert recovery evaluation tested whether alerts generated during a simulated HTTP endpoint outage were retained and delivered after recovery. These evaluations provide evidence for the system’s functionality while also identifying limitations that remain for future work.
 
-## 1.5 Organization of the Project
+## 1.5 Scope of the Study
+
+The scope of this study is limited to the development and evaluation of an edge-based intelligent visual surveillance prototype for detecting selected security-relevant behaviours in infrastructure-constrained environments. The system focuses on local person detection, anonymous multi-object tracking, configurable zone-based monitoring, rule-based behavioural-event reasoning, event logging, evidence handling, persistent alert queueing, HTTP alert recovery, and GSM/SMS notification capability.
+
+The implemented behavioural indicators are restricted presence, lingering, crowd density, tailgating, and abnormal motion. These indicators were selected because they represent practical security conditions that can be expressed using detection, tracking, zone, count, duration, transition, and movement information. The system does not attempt to identify individuals, perform facial recognition, or classify all possible human activities. It also does not claim to replace human security personnel, but to support faster awareness and more reliable event preservation.
+
+The hardware scope of the project includes Raspberry Pi-class edge deployment, IMX219 NoIR camera input, HC-SR501 PIR motion sensing, and SIMCOM A7670G GSM/SMS communication. The software scope includes the perception pipeline, tracker integration, rule-based indicator logic, local configuration interface, event records, alert delivery, and persistent queue recovery. The evaluation scope covers detector-tracker screening, behavioural scenario outcomes, sustained Raspberry Pi saved-video profiling, hardware component verification, and simulated HTTP endpoint outage recovery.
+
+The study does not include full cloud platform deployment, multi-device account management, continuous cloud synchronization, formal detector mAP evaluation, formal tracking metrics such as MOTA or IDF1, measured electrical power consumption in watts, solar/battery endurance testing, guaranteed SMS reliability, or complete pitch-dark surveillance validation. These areas are outside the completed scope and are treated as possible directions for future work.
+
+## 1.6 Significance of the Study
+
+This study is significant because it addresses a practical surveillance problem that is common in infrastructure-constrained environments. Many conventional CCTV systems depend on continuous human monitoring or later review of recorded footage. In places where power supply is unstable, internet connectivity is weak, and technical support is limited, such systems may fail to provide timely and reliable security awareness. Edge Sentinel responds to this problem by placing surveillance intelligence closer to the camera and allowing important event reasoning to happen locally.
+
+The project contributes to intelligent surveillance by demonstrating a practical edge-based architecture that combines person detection, anonymous tracking, configurable behavioural indicators, local event logging, evidence handling, persistent alert queueing, and fallback SMS capability. This shows that useful surveillance intelligence does not always need to depend on continuous cloud processing or heavy video anomaly detection models. By using explainable rules, the system can generate alerts with clearer trigger reasons, making it easier to understand and evaluate its behaviour.
+
+The study is also significant to Nigerian and similar deployment contexts where surveillance systems are affected by unreliable power, poor maintenance, weak connectivity, and affordability concerns. Instead of treating these conditions as external problems, the project includes them as part of the design motivation. The alert queue recovery mechanism, local processing, and GSM/SMS capability support the idea that a surveillance system should continue preserving useful event information even when remote delivery is temporarily unavailable.
+
+For future researchers and developers, the project provides a foundation for improving edge-based surveillance systems. The prototype can be extended through stronger low-light evaluation, improved abnormal-motion handling, formal detector and tracker benchmarking, measured power profiling, solar or battery testing, and wider field trials. The work therefore contributes both a working prototype and a clear direction for building more resilient surveillance systems for constrained environments.
+
+
+## 1.7 Organization of the Project
 
 This project report is organized into five chapters.
 
